@@ -3,7 +3,7 @@
      love to work with NodeJS or full-stack because I have experience on that.
 - 🌱 I’m currently learning ...  secret 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... m.a.aziz1900@gmail.com
 
 <!---
 vaitalaziz/vaitalaziz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
