@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaitalaziz, better call me Aziz or Mohammad, please
+- 👋 Hi, I’m Aziz or Mohammad as you like to call me.
 - 👀 I’m interested in TypeScript, Angular because since last two years working on that, but also 
      love to work with NodeJS or full-stack because I have experience on that.
 - 🌱 I’m currently learning German language and as programming...  secret 
